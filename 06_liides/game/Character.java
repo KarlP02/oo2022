@@ -1,5 +1,6 @@
 package game;
 
+// abstract -- ei saa teha new Character();
 public abstract class Character {
     int coordinateY;
     int coordinateX;
